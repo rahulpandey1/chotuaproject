@@ -8,3 +8,4 @@ C:\Users\rahul\Documents\GitHub\chotuaproject\AccountRFP\AccountRFP\obj\Debug\Ac
 C:\Users\rahul\Documents\GitHub\chotuaproject\AccountRFP\AccountRFP\obj\Debug\AccountRFP.csproj.CoreCompileInputs.cache
 C:\Users\rahul\Documents\GitHub\chotuaproject\AccountRFP\AccountRFP\obj\Debug\AccountRFP.exe
 C:\Users\rahul\Documents\GitHub\chotuaproject\AccountRFP\AccountRFP\obj\Debug\AccountRFP.pdb
+C:\Users\rahul\Documents\GitHub\chotuaproject\AccountRFP\AccountRFP\obj\Debug\AccountRFP.Admin.resources
